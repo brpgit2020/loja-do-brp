@@ -9,7 +9,12 @@
 </head>
 <body>
     <header id="cabecalho">
-
+        <h1 id="titulo">
+            Cadastro
+        </h1>
+        <h2 id=subtitulo>
+            Bem-vindo! É aqui que você efetua o seu cadastro na loja virtual!
+        </h2>
     </header>
     <section id="sessao">
        

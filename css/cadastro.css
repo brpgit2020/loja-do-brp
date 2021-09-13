@@ -6,3 +6,15 @@
   margin: -9px;
   
 }
+#titulo{
+    position: relative;
+    left: 580px;
+    color: rgb(230, 230, 230);
+    bottom: -80px;
+}
+#subtitulo{
+    position: relative;
+    left: 340px;
+    bottom: -80px;
+    color: rgb(230, 230, 230);
+}
