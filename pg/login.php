@@ -21,7 +21,7 @@
                se já criaram uma impressora 3d, nunca poderemos dizer dessa água não bebereis! kkkk
             </p>
             <a href="../index.php"><button type="button" id="home">Voltar</button></a>
-            <a href="#"><button type="button" id="cadastre-se">Cadastrar</button></a>
+            <a href="cadastro.php"><button type="button" id="cadastre-se">Cadastrar</button></a>
             <a href="#"><button type="button" id="login">Login</button></a>
         </div>
     </header>
