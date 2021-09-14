@@ -16,12 +16,14 @@
             Bem-vindo! É aqui que você efetua o seu cadastro na loja virtual!
         </h2>
     </header>
-    <section id="sessao">
-       
+    <section id="cadastro">
+       <form action="#" name="fcadastro" id="fcadastro">
+           <label id="lbname">Nome completo: </label>
+           <input type="text" name="" id="iname" maxlength="50" size="60">
+           <label id="lbendereco">Endereço: </label>
+           <input type="text" name="" id="inendereco" maxlength="50" size="60">
+       </form>
     </section>
-    <article id="artigo">
-
-    </article>
     <footer id="roda-pe">
 
     </footer>

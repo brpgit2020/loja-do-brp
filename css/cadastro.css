@@ -17,3 +17,28 @@
     bottom: -7px;
     color: rgb(230, 230, 230);
 }
+#fcadastro{
+  position: relative;
+  bottom: -52px;
+}
+#lbendereco, #inendereco{
+  position: relative;
+  bottom: -50px;
+  left: -619px;
+  width: 462px;
+}
+#inendereco{
+  position: relative;
+  left: -576px;
+  width: 495px;
+  background-color: green;
+  color: lightgray;
+  font-weight: bold;
+  border-radius: 50px;
+}
+#iname{
+  background-color: green;
+  color: lightgray;
+  font-weight: bold;
+  border-radius: 50px;
+}
