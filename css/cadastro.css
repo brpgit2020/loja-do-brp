@@ -38,7 +38,7 @@ body{
 }
 #lbendereco, #inendereco{
   position: relative;
-  bottom: -40px;
+  bottom: -75px;
   left: -620px;
   width: 462px;
   font-weight: bold;
@@ -56,22 +56,30 @@ body{
 #lbairro{
   position: relative;
   left: -1200px;
-  bottom: -79px;
+  bottom: -150px;
   color: rgb(230,230,230);
   font-weight: bold;
 }
 #inbairro{
   position: relative;
-  bottom: -59px;
+  bottom: -150px;
   left: 125px;
   width: -1495px;
   border-radius: 50px;
   background-color: green;
-  color: lightgray;
+  color: rgb(230, 230, 230);
   font-weight: bold;
 }
 #lbcidade{
   position: relative;
   left: -500px;
   top: 95px;
+}
+#lbdate{
+  position: relative;
+  bottom: -15px;
+  left: -507px;
+  width: -1495px;
+  color: rgb(230, 230, 230);
+  font-weight: bold;
 }

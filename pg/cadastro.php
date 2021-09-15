@@ -20,11 +20,11 @@
        <form action="#" name="fcadastro" id="fcadastro" method="post">
            <label name="lbname" id="lbname">Nome completo: </label>
            <input type="text" name="nome" id="iname" maxlength="50" size="60">
-           <label nome="lbendereco" id="lbendereco">Endereço: </label>
+           <!--<label nome="lbendereco" id="lbendereco">Endereço: </label>
            <input type="text" name="endereco" id="inendereco" maxlength="50" size="60">
            <label nome="lbairro" id="lbairro">Bairro: </label>
            <input type="text" name="bairro" id="inbairro" maxlength="50" size="60">
-           <label nome="lbdate" id="lbdate">Data de nascimento</label>
+           <label nome="lbdate" id="lbdate">Data de nascimento</label>-->
        </form>
     </section>
     <footer id="roda-pe">
