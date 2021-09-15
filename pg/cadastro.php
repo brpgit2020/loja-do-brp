@@ -19,9 +19,11 @@
     <section id="cadastro">
        <form action="#" name="fcadastro" id="fcadastro">
            <label id="lbname">Nome completo: </label>
-           <input type="text" name="" id="iname" maxlength="50" size="60">
+           <input type="text" name="nome" id="iname" maxlength="50" size="60">
            <label id="lbendereco">Endereço: </label>
-           <input type="text" name="" id="inendereco" maxlength="50" size="60">
+           <input type="text" name="endereco" id="inendereco" maxlength="50" size="60">
+           <label id="lbairro">Bairro: </label>
+           <input type="text" name="bairro" id="inbairro" maxlength="50" size="60">
        </form>
     </section>
     <footer id="roda-pe">
