@@ -17,7 +17,7 @@
         </h2>
     </header>
     <section id="cadastro">
-       <form action="#" name="fcadastro" id="fcadastro">
+       <form action="#" name="fcadastro" id="fcadastro" method="post">
            <label id="lbname">Nome completo: </label>
            <input type="text" name="nome" id="iname" maxlength="50" size="60">
            <label id="lbendereco">Endereço: </label>
