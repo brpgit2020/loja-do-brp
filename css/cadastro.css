@@ -45,7 +45,7 @@ body{
 }
 #indata{
   position: relative;
-  left: -500px;
+  left: -499px;
   bottom: -15px;
   background-color: green;
   color: lightgray;
@@ -62,7 +62,7 @@ body{
 }
 #inendereco{
   position: relative;
-  left: -540px;
+  left: -542px;
   width: 495px;
   background-color: green;
   color: lightgray;
