@@ -34,11 +34,27 @@ body{
   font-weight: bold;
   border-radius: 50px;
   position: relative;
-  left: 10px;
+  left: 40px;
+}
+#lbdata{
+  position: relative;
+  bottom: -15px;
+  left: -505px;
+  color: rgb(230,230,230);
+  font-weight: bold;
+}
+#indata{
+  position: relative;
+  left: -500px;
+  bottom: -15px;
+  background-color: green;
+  color: lightgray;
+  font-weight: bold;
+  border-radius: 50px;
 }
 #lbendereco, #inendereco{
   position: relative;
-  bottom: -75px;
+  bottom: -70px;
   left: -620px;
   width: 462px;
   font-weight: bold;
@@ -46,7 +62,7 @@ body{
 }
 #inendereco{
   position: relative;
-  left: -570px;
+  left: -540px;
   width: 495px;
   background-color: green;
   color: lightgray;
@@ -56,30 +72,17 @@ body{
 #lbairro{
   position: relative;
   left: -1200px;
-  bottom: -150px;
+  bottom: -100px;
   color: rgb(230,230,230);
   font-weight: bold;
 }
 #inbairro{
   position: relative;
-  bottom: -150px;
-  left: 125px;
+  bottom: -85px;
+  left: 155px;
   width: -1495px;
   border-radius: 50px;
   background-color: green;
-  color: rgb(230, 230, 230);
-  font-weight: bold;
-}
-#lbcidade{
-  position: relative;
-  left: -500px;
-  top: 95px;
-}
-#lbdate{
-  position: relative;
-  bottom: -15px;
-  left: -507px;
-  width: -1495px;
-  color: rgb(230, 230, 230);
+  color: lightgray;
   font-weight: bold;
 }

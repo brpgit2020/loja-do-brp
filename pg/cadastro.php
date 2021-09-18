@@ -17,14 +17,15 @@
         </h2>
     </header>
     <section id="cadastro">
-       <form action="#" name="fcadastro" id="fcadastro" method="post">
-           <label name="lbname" id="lbname">Nome completo: </label>
+       <form action="#" name="fcadastro" id="fcadastro">
+           <label id="lbname">Nome completo: </label>
            <input type="text" name="nome" id="iname" maxlength="50" size="60">
-           <!--<label nome="lbendereco" id="lbendereco">Endereço: </label>
+           <label id="lbendereco">Endereço: </label>
            <input type="text" name="endereco" id="inendereco" maxlength="50" size="60">
-           <label nome="lbairro" id="lbairro">Bairro: </label>
+           <label id="lbairro">Bairro: </label>
            <input type="text" name="bairro" id="inbairro" maxlength="50" size="60">
-           <label nome="lbdate" id="lbdate">Data de nascimento</label>-->
+           <label nome="lbdata" id="lbdata">Data de Nascimento:</label>
+           <input type="text" nome="indata" id="indata" maxlength="50" size="60">
        </form>
     </section>
     <footer id="roda-pe">
