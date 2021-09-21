@@ -63,11 +63,11 @@ body{
 #inendereco{
   position: relative;
   left: -542px;
-  width: 495px;
   background-color: green;
   color: lightgray;
   font-weight: bold;
   border-radius: 50px;
+  width: 496px;
 }
 #lbairro{
   position: relative;
@@ -80,9 +80,24 @@ body{
   position: relative;
   bottom: -85px;
   left: 155px;
-  width: -1495px;
   border-radius: 50px;
   background-color: green;
   color: lightgray;
   font-weight: bold;
+}
+#lbtell{
+  color: lightgray;
+  font-weight: bold;
+  position: relative;
+  bottom: -115px;
+  left: -1159px;
+}
+#intell{
+  border-radius: 50px;
+  background-color: green;
+  color: lightgray;
+  font-weight: bold;
+  position: relative;
+  bottom: -100px;
+  left: 155px;
 }

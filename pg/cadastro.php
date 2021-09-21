@@ -19,13 +19,15 @@
     <section id="cadastro">
        <form action="#" name="fcadastro" id="fcadastro" method="post">
            <label id="lbname">Nome completo: </label>
-           <input type="text" name="nome" id="iname" maxlength="50" size="60">
+           <input type="text" name="iname" id="iname" maxlength="50" size="60">
            <label id="lbendereco">Endereço: </label>
-           <input type="text" name="endereco" id="inendereco" maxlength="50" size="60">
+           <input type="text" name="inendereco" id="inendereco" maxlength="50" size="60">
            <label id="lbairro">Bairro: </label>
            <input type="text" name="bairro" id="inbairro" maxlength="50" size="60">
            <label nome="lbdata" id="lbdata">Data de Nascimento:</label>
            <input type="text" nome="indata" id="indata" maxlength="50" size="60">
+           <labe nome="lbtell" id="lbtell">Telefone residêncial:</labe>
+           <input type="text" nome="intell" id="intell" maxlength="50" size="60">
        </form>
     </section>
     <footer id="roda-pe">
