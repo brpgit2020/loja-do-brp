@@ -21,7 +21,7 @@
            <label id="lbname">Nome completo: </label>
            <input type="text" name="iname" id="iname" maxlength="50" size="60">
            <label id="lbendereco">Endereço: </label>
-           <input type="text" name="inendereco" id="inendereco" maxlength="50" size="60">
+           <input type="text" name="inendereco" id="inendereco">
            <label id="lbairro">Bairro: </label>
            <input type="text" name="bairro" id="inbairro" maxlength="50" size="60">
            <label nome="lbdata" id="lbdata">Data de Nascimento:</label>
