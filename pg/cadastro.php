@@ -28,7 +28,7 @@
            <input type="text" nome="indata" id="indata" maxlength="50" size="60">
            <labe nome="lbtell" id="lbtell">Telefone residêncial:</labe>
            <input type="text" nome="intell" id="intell" maxlength="50" size="60">
-       </form>
+       </form>      
     </section>
     <footer id="roda-pe">
 
