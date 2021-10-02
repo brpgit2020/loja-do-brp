@@ -45,7 +45,7 @@ body{
 }
 #indata{
   position: relative;
-  left: -499px;
+  left: -500px;
   bottom: -15px;
   background-color: green;
   color: lightgray;
@@ -62,7 +62,12 @@ body{
 }
 #inendereco{
   position: relative;
+<<<<<<< HEAD
   left: -542px;
+=======
+  left: -540px;
+  width: 495px;
+>>>>>>> parent of 0da87b3... repositioned the date of birth and address inputs
   background-color: green;
   color: lightgray;
   font-weight: bold;
